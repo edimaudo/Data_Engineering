@@ -1,4 +1,3 @@
-# Data_Engineering
 # Data Engineering Projects
 
 ![](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/image.jpeg)
